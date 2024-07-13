@@ -1,0 +1,8 @@
+/backend/node_modules
+/fontend/node_moudles
+/.pnp
+.pnp.js
+
+/coverage
+/build
+
